@@ -1,0 +1,7 @@
+Nome: li 	|	 Morada: vn 	|	 Ponto: 3 
+
+Nome: Balda 	|	 Morada: palma 	|	 Ponto: 3 
+
+Nome: Somada 	|	 Morada: somada 	|	 Ponto: 2 
+
+Nome: Cristopher 	|	 Morada: txadinha 	|	 Ponto: 2 

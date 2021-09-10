@@ -1,0 +1,7 @@
+Nome: saiman    |	 Morada: moreno     	|	 Ponto: 2 
+Nome: saiman    |	 Morada: moreno     	|	 Ponto: 2 
+Nome: saiman 	|	 Morada: calabaceira 	|	 Ponto: 2 
+
+Nome: saiman 	|	 Morada: moreno 	|	 Ponto: 2 
+
+Nome: joel 	|	 Morada: txada 		|	 Ponto: 2 
